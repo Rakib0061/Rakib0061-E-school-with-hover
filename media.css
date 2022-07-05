@@ -1,0 +1,209 @@
+@media (max-width:1399px) {
+    
+}
+
+@media (max-width:1199px) {
+
+    .container {
+        max-width: 928px;
+    }
+    .fa-circle-nodes {
+        left: 49%;
+    }
+    .nav-link {
+        padding: 6px 17px !important;
+    }
+    .navbar-brand img {
+        width: 192px !important;
+    }
+    .header_title {
+        padding: 34px 24px 0 0;
+    }
+    .header_title h1 {
+        font-weight: 600;
+        font-size: 44px;
+        line-height: 55px;
+    }
+    .header_title h4 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .btn_custom_banner {
+        padding: 9px 22px;
+    }
+    .col-xl.col-lg.px-5 {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+    .book_title h1 {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 36px;
+    }
+    .col-xl.col-lg-4.px-5 {
+        padding-right: 1rem !important;
+        padding-left: 1rem !important;
+    }
+    .modern_phychology {
+        padding: 13px;
+    }
+    .modern_phychology_title h1 {
+        font-size: 19px;
+    }
+    .modern_phychology_title p {
+        font-size: 15px;
+    } 
+    .btn_course {
+        padding: 3px 6px;
+    }
+    .gallery img {
+        height: 259px;
+    }
+    .gallery_head {
+        padding: 5px;
+    }
+    .gallery_title {
+        color: #000000;
+        bottom: -37%;
+        padding: 5px;
+    }
+    .gallery_head p {
+        font-size: 13px;
+    }
+    .gallery:hover .gallery_title {
+        bottom: 14%;
+    }
+    .gallery h1 {
+        font-size: 30px;
+    }
+    .testimonial_title p {
+        font-size: 15px;
+    }
+    .millions {
+        padding-right: 22px;
+    }
+    .millions p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+}
+
+@media (max-width:991px) {
+    .fa-circle-nodes {
+        left: 48.2%;
+    }
+    .navbar .container {
+        flex-direction: column;
+    }
+    .navbar-brand img {
+        margin-bottom: 8px;
+    }
+    .nav-link {
+        padding: 5px 32px !important;
+    }
+    .header_title {
+        padding: 34px 0 0;
+    }
+    .header_title h5 {
+        font-size: 13px;
+    }
+    .header_title h1 {
+        font-size: 36px;
+    }
+    .header_title h4 {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .btn_custom_banner {
+        padding: 6px 14px;
+    }
+    .header_image img {
+        padding-top: 35px;
+    }
+    .col-xl.col-lg.px-5 {
+        padding: 2rem;
+    }
+    .col-xl.col-lg-4.px-5 {
+        padding: 2rem !important;
+    }
+    .gallery img {
+        height: 245px;
+    }
+    .testimonial_title {
+        text-align: center;
+        margin-top: 6px;
+    }
+    .col-xl-6.col-lg-7 {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .col-xl.col-lg.px-5 {
+        padding: 1rem;
+    }
+}
+
+@media (max-width:767px) {
+    .navbar .container {
+        flex-direction: row;
+    }
+    .navbar-brand img {
+        margin-bottom: 0;
+    }
+    .header_title {
+        text-align: center;
+    }
+    .header_title h5 { 
+        font-size: 14px;
+    }
+    .col-xl.col-lg.px-5 {
+        padding: 2rem;
+    }
+    .col-xl.col-lg-4.px-5 {
+        padding: 2rem 6rem  !important;
+    }
+    .col-xl.col-lg.col-md.col-sm {
+        padding: 1rem;
+    }
+    .col-xl-5.col-lg-5.col-md-6.col-sm-12 {
+        padding: 2rem;
+    }
+    .gallery img {
+        height: 353px;
+    }
+    .millions {
+        text-align: center;
+    }
+}
+
+@media (max-width:575px) {
+    .fa-circle-nodes {
+        left: 47.2%;
+    }
+    .navbar-brand img {
+        width: 143px !important;
+    }
+    button.navbar-toggler {
+        padding: 0;
+    }
+    .col-xl.col-lg.px-5 {
+        padding: 1rem 5rem !important;
+    }
+    .col-xl.col-lg-4.px-5 {
+        padding: 1rem 3rem  !important;
+    }
+    .gallery img {
+        height: auto;
+    }
+    .gallery h1 {
+        font-size: 21px;
+    }
+    .copyright p {
+        font-size: 11px;
+    }
+    
+.fa-circle-dot {
+    animation: circle 70s alternate infinite  linear;
+}
+.capsulC .fa-circle-dot {
+    animation: round 70s alternate infinite  linear;
+}
